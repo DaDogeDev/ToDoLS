@@ -29,6 +29,14 @@
 ### Example Usage:
 ```
 $ python main.py
+    _______    _____        _       _____ 
+   |__   __|  |  __ \      | |     / ____|
+      | | ___ | |  | | ___ | |    | (___  
+      | |/ _ \| |  | |/ _ \| |     \___ \ 
+      | | (_) | |__| | (_) | |____ ____) |
+      |_|\___/|_____/ \___/|______|_____/ 
+A TUI To-Do List!
+
 > ? / h / help    # Display help menu
 > + / add "Buy groceries"    # Add a task
 > ls / list    # List all tasks
