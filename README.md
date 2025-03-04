@@ -18,3 +18,7 @@ Commands:
 Customization: 
 - font - change font of the logo
 - lsfnt / listfont - list all available fonts for the logo
+
+Requierements:
+- python3
+- pip package pyfiglet
